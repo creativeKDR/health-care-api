@@ -1,0 +1,7 @@
+flask~=3.0.3
+SQLAlchemy~=2.0.29
+pycryptodome==3.14.1
+pycryptodomex==3.14.1
+PyJWT~=2.8.0
+werkzeug~=3.0.2
+transformers~=4.40.2
